@@ -8,3 +8,5 @@ Here are some ideas to get you started:
 - :penguin: Fun fact: I use arch btw
 - :mailbox_with_mail: How to reach me see [LinkedIn](https://www.linkedin.com/in/leonribeirods/)
 - :iphone: My Google Play Developer's Profile: [Google Play](https://play.google.com/store/apps/developer?id=Leon+Ribeiro)
+
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonribeiro&show_icons=true)
