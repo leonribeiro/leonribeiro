@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - :mailbox_with_mail: How to reach me see [LinkedIn](https://www.linkedin.com/in/leonribeirods/)
 - :iphone: My Google Play Developer's Profile: [Google Play](https://play.google.com/store/apps/developer?id=Leon+Ribeiro)
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=leonribeiro&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonribeiro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
