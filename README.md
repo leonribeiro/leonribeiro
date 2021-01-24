@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - :iphone: My Google Play Developer's Profile: [Google Play](https://play.google.com/store/apps/developer?id=Leon+Ribeiro)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonribeiro&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonribeiro&layout=compact)
